@@ -1,2 +1,4 @@
 # WiDS-2023-Datathon-Challenge
-Three BrainStation alumni and I have formed a team to tackle the 2023 Women in Data Science (WiDS) Datathon.  The first installment in this repository is my data processing, EDA, and initial modeling attempt.  Notebook 1 is a strong start, but there is much work to be done to move up the leaderboard in this challenge.  Notebook 2 will be added in the coming weeks. 
+Three BrainStation alumni and I have formed a team to tackle the 2023 Women in Data Science (WiDS) Datathon.  The first installment in this repository is my data processing, EDA, and initial modeling attempt.  Notebook 1, I clean and complete a number of EDA endeavors to evaluate our problem space.  I optimize a Random Forest Reressor(RFR) to achieve our first predictive scoring metrics.  Notebook 1 is a strong start, but there is much work to be done to move up the leaderboard in this challenge.  
+
+In Notebook 2, we implement a data reduction strategy.  I am compare an optimized Multi-layer Perceptron Regressor(MLPR) to my RFR results in notebook 1.  We make a submission to the WiDS leaderboard to set up a baseline for futher advancement in the project/competition.  
